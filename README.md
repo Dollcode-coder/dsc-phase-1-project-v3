@@ -1,9 +1,13 @@
 # Potential Risks Of Airflight
-
+## Key stakeholders Ultimate High Company
 ##  Business Understanding
  
  ### Objective
 The goal of this project is to predict which aircraft are the lowest risk for the company since the company wants to expand into new industries to diversify its portfolio. They are interested in purchasing operational and private airplanes for commercial and private enterprises but have no idea of the risk of aircraft.
+
+### Key Questions
+1.Which manufacturers (based on 'Make') have the most accidents?
+2.What type of engine on the aircraft determined the most and least fatal injuries while in the risk
 
 ### Success criteria
 1. Actionable Insights -The prediction should lead to actionable insights that the company can use when purchasing an aircraft
