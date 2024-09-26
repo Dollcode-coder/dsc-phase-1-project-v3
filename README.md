@@ -28,6 +28,7 @@ Upon examining the correlation between aircraft make and fatal injuries, I found
 Furthermore, I investigated the relationship between engine types and fatal injuries. The findings revealed that specific engine types are associated with a greater number of fatal incidents, whereas others have shown a more favorable safety record.
 
 Finally, I explored the correlation between aircraft damage and total injuries. The results suggest that increased aircraft damage correlates with a higher likelihood of fatal injuries, underscoring the critical importance of maintaining aircraft integrity for passenger safety.
+[**My Tableau Dashboard**](https://public.tableau.com/app/profile/dorothy.otieno/viz/AircraftAccidentRiskAnalysis/Dashboard1)
 ![Dashboard](./Dashboard.PNG)
 
 
